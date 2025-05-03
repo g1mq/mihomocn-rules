@@ -1,0 +1,95 @@
+payload:
+  # Facebook
+  - "domain-suffix,facebook.com"
+  - "domain-suffix,fb.com"
+  - "domain-suffix,fb.me"
+  - "domain-suffix,fbcdn.net"
+  - "domain-suffix,fbsbx.com"
+  - "domain-suffix,fbcdn.com"
+  - "domain-suffix,fbcdn-photos-e-a.akamaihd.net"
+  - "domain-suffix,thefacebook.com"
+  - "domain-keyword,facebook"
+
+  # Instagram
+  - "domain-suffix,instagram.com"
+  - "domain-suffix,cdninstagram.com"
+  - "domain-suffix,instagr.am"
+  - "domain-keyword,instagram"
+
+  # Twitter
+  - "domain-suffix,twimg.com"
+  - "domain-suffix,twitter.com"
+  - "domain-suffix,x.com"
+  - "domain-suffix,twttr.com"
+  - "domain-suffix,t.co"
+  - "domain-keyword,twitter"
+
+  # Telegram
+  - "domain-suffix,t.me"
+  - "domain-suffix,tdesktop.com"
+  - "domain-suffix,telegra.ph"
+  - "domain-suffix,telegram.me"
+  - "domain-suffix,telegram.org"
+  - "domain-suffix,telesco.pe"
+  - "domain-keyword,telegram"
+  - "ip-cidr,91.108.0.0/16"
+  - "ip-cidr,109.239.140.0/24"
+  - "ip-cidr,149.154.160.0/20"
+  - "ip-cidr6,2001:67c:4e8::/48"
+  - "ip-cidr6,2001:b28:f23d::/48"
+  - "ip-cidr6,2001:b28:f23f::/48"
+
+  # TikTok
+  - "domain-suffix,byteoversea.com"
+  - "domain-suffix,ibytedtos.com"
+  - "domain-suffix,ibyteimg.com"
+  - "domain-suffix,ipstatp.com"
+  - "domain-suffix,muscdn.com"
+  - "domain-suffix,musical.ly"
+  - "domain-suffix,tiktok.com"
+  - "domain-suffix,tik-tokapi.com"
+  - "domain-suffix,tiktokcdn.com"
+  - "domain-suffix,tiktokv.com"
+  - "domain-keyword,tiktok"
+
+  # WhatsApp
+  - "domain-suffix,whatsapp.com"
+  - "domain-suffix,whatsapp.net"
+  - "domain-suffix,whatsapp-plus.net"
+  - "domain-suffix,wa.me"
+  - "domain-keyword,whatsapp"
+
+  # Reddit
+  - "domain-suffix,redd.it"
+  - "domain-suffix,reddit.com"
+  - "domain-suffix,redditmail.com"
+  - "domain-suffix,redditmedia.com"
+  - "domain-suffix,redditstatic.com"
+  - "domain-keyword,reddit"
+
+  # LinkedIn
+  - "domain-suffix,linkedin.com"
+  - "domain-suffix,licdn.com"
+  - "domain-suffix,linkedin.cn"
+  - "domain-suffix,lnkd.in"
+  - "domain-keyword,linkedin"
+
+  # Pinterest
+  - "domain-suffix,pinimg.com"
+  - "domain-suffix,pinterest.com"
+  - "domain-suffix,pin.it"
+  - "domain-keyword,pinterest"
+
+  # Snapchat
+  - "domain-suffix,sc-cdn.net"
+  - "domain-suffix,snap.com"
+  - "domain-suffix,snapchat.com"
+  - "domain-keyword,snapchat"
+
+  # Discord
+  - "domain-suffix,discord.com"
+  - "domain-suffix,discord.gg"
+  - "domain-suffix,discord.media"
+  - "domain-suffix,discordapp.com"
+  - "domain-suffix,discordapp.net"
+  - "domain-keyword,discord" 
